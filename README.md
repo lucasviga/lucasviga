@@ -3,7 +3,7 @@
 - I'm working at Grupo ClickIP in Manaus.
 - I'm a developer front-end: React JS and React Native.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/lucasviga/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/lucasviga/github-readme-stats) -->
 
 <!--
 **lucasviga/lucasviga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

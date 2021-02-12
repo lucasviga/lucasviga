@@ -1,5 +1,7 @@
 # Lucas Viga
 
+"Learn something every day" #NeverStopLearning
+
 - I'm working at Grupo ClickIP in Manaus.
 - I'm a developer front-end: React JS and React Native.
 

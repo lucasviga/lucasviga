@@ -5,6 +5,7 @@
 - I'm working at Grupo ClickIP in Manaus.
 - I'm a developer front-end: React JS and React Native.
 
+I've been studying: Next JS, Typescript and Node JS.
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/lucasviga/github-readme-stats) -->
 
 <!--

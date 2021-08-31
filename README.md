@@ -2,7 +2,7 @@
 
 "Learn something every day" #NeverStopLearning
 
-- I'm working at Grupo ClickIP in Manaus.
+- I've been working at Grupo ClickIP in Manaus.
 - I'm a developer front-end: React JS and React Native.
 
 I've been studying: Next JS, Typescript and Node JS.

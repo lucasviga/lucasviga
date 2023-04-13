@@ -1,11 +1,11 @@
-# Lucas Viga
+# Lucas Viga - Frontend Software Developer
 
 "Learn something every day" #NeverStopLearning
 
 - I've been working at Grupo ClickIP in Manaus.
-- I'm a developer front-end: React JS and React Native.
 
-I've been studying: React, NextJS and Unit Tests.
+I’ve been working as a developer for more than 2 years. During this time, I’ve been developing with theses techs: React JS/Native, Next JS, JS and TS, Chakra UI, CSS in JS (Stitches, Styled Components) and Unit and end-to-end tests.
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/lucasviga/github-readme-stats) -->
 
 <!--

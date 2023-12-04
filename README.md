@@ -2,9 +2,9 @@
 
 "Learn something every day" #NeverStopLearning
 
-- I've been working at Grupo ClickIP in Manaus.
+- I've been working at Grupo ClickIP (Telecom Company).
 
-I’ve been working as a developer for more than 2 years. During this time, I’ve been developing with theses techs: React JS/Native, Next JS, JS and TS, Chakra UI, CSS in JS (Stitches, Styled Components) and Unit and end-to-end tests.
+I’ve been working as a Front-End Software Engineer for 4 years. During this time, I’ve been developing with theses techs: React JS/Native, Next JS, JS and TS, Chakra UI, CSS in JS, Testes (unit, e2e).
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/lucasviga/github-readme-stats) -->
 
